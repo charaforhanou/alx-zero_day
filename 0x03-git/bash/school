@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 "updaed"
+=======
+echo "The school is open!"
+>>>>>>> 8e71555a747eec38ef93becbc726808a0e334c47
